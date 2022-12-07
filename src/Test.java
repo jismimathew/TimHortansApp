@@ -8,7 +8,7 @@ public class Test {
         Scanner sc = new Scanner(System.in);
         TimGetData[] []objAll = new TimGetData[100][100];
         double totalPrice =0.0;
-        System.out.println("WELCOME TO TIM HORTAN'S ORDERING SYSTEM");
+        System.out.println("**WELCOME TO TIM HORTAN'S ORDERING SYSTEM**");
         boolean val = true;
         int count=0;
         if(count< objAll.length){
